@@ -2,7 +2,7 @@
 
 ### Hi, I'm Junseok 👋
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://velog.io/@sian)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://kimevanjunseok.github.io/portfolio)
 
 👨‍💻 Backend Developer <br/>
 📚 Spring, Java, Django, Python, Vue.js, Javascript <br/>
