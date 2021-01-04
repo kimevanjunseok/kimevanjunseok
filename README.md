@@ -6,4 +6,3 @@
 
 👨‍💻 Backend Developer <br/>
 📚 Spring, Java, Django, Python, Vue.js, Javascript <br/>
-🚀 [woowacourse](https://woowacourse.github.io/)
