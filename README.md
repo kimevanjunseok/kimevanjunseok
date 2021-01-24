@@ -5,4 +5,4 @@
 [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://velog.io/@tigger)](https://velog.io/@tigger)
 
 👨‍💻 Backend Developer <br/>
-📚 Spring, Java, Django, Python, Vue.js, Javascript <br/>
+📚 **Spring**, **Java**, Django, Python, Vue.js, Javascript <br/>
